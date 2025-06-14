@@ -1,0 +1,3 @@
+here I have added polyfils just to bring some global variables to my codebase 
+here the createMint and all is defined for the node like because it uses buffer which is not made for the web brtowser so 
+this npm install --save-dev vite-plugin-node-polyfills makes the nodepolyfills to bring things like -->let buffer={}; and all
